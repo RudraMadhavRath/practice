@@ -1,0 +1,77 @@
+form{
+    left: 482.8px;
+    top: 160px;
+    position: absolute;
+    text-align: -webkit-auto;
+    width: 360px;
+    line-height: 2;
+    font-weight: 600;
+}   
+
+div{
+    font-family: 'Montserrat', sans-serif;
+    font-weight: 800;
+    font-size: 40px;
+}
+p{
+    color: #808080;
+}
+.email_class,.password_class{
+    font-weight: 600;
+}
+.email_class,.password_class,.remember_me{
+    color: #65647C;
+    font-family: 'Poppins', sans-serif;
+    font-size: 14px;
+}
+.sign_in{
+    background-color: #A555EC;
+    border-radius: 8px;
+    color: white;
+ }
+ .sign_google{
+    color: #65647C;
+ }
+button {   
+    border-style: solid;
+    border-color: #DDDDDD;
+    border-radius: 8px;
+    padding: 10px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    margin: 4px 2px;
+    width: 350.8px;
+  }
+  #email_id,#password_id{
+    border-radius: 8px;
+    border-style: solid;
+    border-color: #DDDDDD;
+    padding: 10px 32px;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 15px;
+    margin: 4px 2px;
+    width: 350.8px;
+  }
+  .forg_pass{
+    color: #6F1AB6; 
+    font-weight: 600;
+    padding-left: 90px; 
+    font-family: 'Poppins', sans-serif;
+    font-size: 12px;
+  }
+  .para_account{
+    color: #B2B2B2;
+    font-family: 'Poppins', sans-serif;
+    font-size: 12px;
+    text-align: center;
+  }
+  .welcome_para{
+    color: #B2B2B2;
+    font-family: 'Poppins', sans-serif;
+  }
+  ::placeholder {
+    color:#B2B2B2;
+  }
